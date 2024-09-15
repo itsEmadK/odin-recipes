@@ -27,3 +27,7 @@
     font-size: 18px;
     font-family: Garamond, Georgia, serif;
 }
+
+#steps-list {
+    font-weight: 600;
+}
