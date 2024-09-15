@@ -1,3 +1,8 @@
 * {
     background-color: aquamarine;
 }
+
+ul {
+    font-family: 'Arial' ,'Consolas', 'Times New Roman', sans-serif;
+    font-size: 24px;
+}
