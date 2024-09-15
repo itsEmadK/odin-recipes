@@ -2,6 +2,10 @@
     background-color: aquamarine;
 }
 
+h1 {
+    font-family: 'Courier New', 'Brush Script MT', monospace;
+}
+
 ul {
     font-family: 'Arial' ,'Consolas', 'Times New Roman', sans-serif;
     font-size: 24px;
