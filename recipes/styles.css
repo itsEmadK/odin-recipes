@@ -15,3 +15,9 @@
     font-family: 'Arial','Times New Romans',sans-serif;
     font-weight: bold;
 }
+
+.header {
+    font-size: 36px;
+    font-family: 'Courier New', 'Brush Script MT', monospace;
+    font-weight: 900;
+}
