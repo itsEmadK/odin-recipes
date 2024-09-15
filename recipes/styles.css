@@ -12,7 +12,7 @@
 
 .subsection-header {
     font-size: 24px;
-    font-family: 'Arial','Times New Romans',sans-serif;
+    font-family: 'Arial', 'Times New Romans', sans-serif;
     font-weight: bold;
 }
 
@@ -20,4 +20,10 @@
     font-size: 36px;
     font-family: 'Courier New', 'Brush Script MT', monospace;
     font-weight: 900;
+}
+
+#ingredients-list,
+#steps-list {
+    font-size: 18px;
+    font-family: Garamond, Georgia, serif;
 }
