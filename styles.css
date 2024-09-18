@@ -38,6 +38,9 @@ h1 {
 
 .recipe-item.item-text {
     height: fit-content;
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
 }
 
 a {
