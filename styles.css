@@ -37,3 +37,7 @@ h1 {
 .recipe-item.item-text {
     height: fit-content;
 }
+
+a {
+    text-decoration: none;
+}
