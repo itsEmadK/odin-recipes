@@ -3,3 +3,11 @@
     padding: 0px;
     box-sizing: border-box;
 }
+
+h1 {
+    font-size: 28px;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 20px;
+}
