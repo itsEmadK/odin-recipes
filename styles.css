@@ -34,3 +34,6 @@ h1 {
     display: block;
 }
 
+.recipe-item.item-text {
+    height: fit-content;
+}
