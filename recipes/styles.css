@@ -11,3 +11,7 @@ h1 {
     text-align: center;
     margin: 20px;
 }
+
+img {
+    border-radius: 5%;
+}
