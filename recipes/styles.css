@@ -39,6 +39,10 @@ img {
     padding: 0 20px;
 }
 
+.list {
+    list-style-position: inside;
+}
+
 .page-container {
     width: 70%;
     margin: 30px auto;
