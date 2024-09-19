@@ -22,4 +22,5 @@ img {
     height: 400px;
     width: 300px;
     margin: 40px;
+    display: block;
 }
