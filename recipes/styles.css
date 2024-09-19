@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+html {
+    text-align: center;
+    background-color: bisque;
+}
+
 h1 {
     font-size: 28px;
     font-weight: 500;
