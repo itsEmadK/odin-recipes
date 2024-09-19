@@ -21,6 +21,6 @@ img {
     border-radius: 5%;
     height: 400px;
     width: 300px;
-    margin: 40px;
+    margin: 40px auto;
     display: block;
 }
