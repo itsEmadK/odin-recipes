@@ -44,4 +44,6 @@ img {
     margin: 30px auto;
     border: 2px black solid;
     border-radius: 25px;
+    background-color: beige;
+    padding: 20px;
 }
