@@ -46,3 +46,37 @@ h1 {
 a {
     text-decoration: none;
 }
+
+
+
+
+.recipe-item {
+    border: 2px red solid;
+}
+
+.recipe-item.item-image {
+    border: 2px black solid;
+    /* padding: 10px; */
+    display: block;
+    margin: 0px;
+    height: 90%;
+}
+
+.horizontal-li {
+    border: 2px blue solid;
+}
+
+a{
+    border: 2px green solid;
+    display: block;
+}
+
+.recipe-item.item-text {
+    border: 2px solid green;
+    margin: 0px 0px 30px;
+    height: 5%;
+}
+
+.main-list {
+    border: 2px teal;
+}
