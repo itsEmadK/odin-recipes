@@ -9,7 +9,7 @@ html {
 }
 
 h1 {
-    font-size: 28px;
+    font-size: 36px;
     font-weight: 500;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
@@ -38,7 +38,7 @@ h1 {
 
 .recipe-item.item-text {
     height: fit-content;
-    font-size: 18px;
+    font-size: 24px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: black;
 }
