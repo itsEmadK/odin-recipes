@@ -46,3 +46,7 @@ h1 {
 a {
     text-decoration: none;
 }
+
+div.recipe-item {
+    margin-bottom: 100px;
+}
