@@ -17,11 +17,14 @@ h1 {
 }
 
 .main-list {
-    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .horizontal-li {
-    display: inline-block;
+    list-style-type: none;
+    text-align: center;
 }
 
 .recipe-item {
